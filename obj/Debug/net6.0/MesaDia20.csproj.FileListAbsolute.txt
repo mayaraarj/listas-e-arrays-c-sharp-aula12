@@ -1,0 +1,15 @@
+C:\Users\mayaraa\source\repos\MesaDia20\bin\Debug\net6.0\MesaDia20.exe
+C:\Users\mayaraa\source\repos\MesaDia20\bin\Debug\net6.0\MesaDia20.deps.json
+C:\Users\mayaraa\source\repos\MesaDia20\bin\Debug\net6.0\MesaDia20.runtimeconfig.json
+C:\Users\mayaraa\source\repos\MesaDia20\bin\Debug\net6.0\MesaDia20.dll
+C:\Users\mayaraa\source\repos\MesaDia20\bin\Debug\net6.0\MesaDia20.pdb
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.csproj.AssemblyReference.cache
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.AssemblyInfoInputs.cache
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.AssemblyInfo.cs
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.csproj.CoreCompileInputs.cache
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.dll
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\refint\MesaDia20.dll
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.pdb
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\MesaDia20.genruntimeconfig.cache
+C:\Users\mayaraa\source\repos\MesaDia20\obj\Debug\net6.0\ref\MesaDia20.dll
